@@ -334,49 +334,6 @@ h2 {
   margin-top: 3.375em;
   margin-bottom: 0; }
 
-section.intro {
-  background: #EDF6FF;
-  height: 80vh;
-  width: 100%;
-  z-index: 1; }
-
-header {
-  margin: 0 auto;
-  max-width: 1040px;
-  text-align: center;
-  top: 0;
-  z-index: 1;
-  width: 100%;
-  position: fixed;
-  -webkit-transform: translateX(25%);
-  -moz-transform: translateX(25%);
-  -ms-transform: translateX(25%);
-  -o-transform: translateX(25%);
-  transform: translateX(25%); }
-  header:after {
-    content: url(../img/octo.png);
-    position: absolute;
-    left: 25%;
-    top: 125%;
-    z-index: -1; }
-  header h1 {
-    background-color: #EDF6FF;
-    color: #232824;
-    display: inline-block;
-    min-height: 70px;
-    margin: 55px auto 0;
-    padding: 0 10px;
-    z-index: 2; }
-    header h1:after {
-      background-color: #dd3b2a;
-      content: '';
-      height: 2px;
-      margin-top: 55px;
-      position: absolute;
-      width: 100%;
-      z-index: -1;
-      left: 0%; }
-
 .site-logo {
   background-image: url("../img/logo.svg");
   background-repeat: no-repeat;
