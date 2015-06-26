@@ -1,0 +1,69 @@
+// ==========================================================================
+// Global Config
+// ==========================================================================
+
+// Font Stacks
+
+$font-family-primary    : 'Alfa Slab One', serif;
+$font-family-secondary  : 'Gentium Book Basic', sans-serif;
+
+// Font Weights
+
+$font-weight-thin       : 100;
+$font-weight-light      : 300;
+$font-weight-medium     : 400;
+$font-weight-bold       : 700;
+$font-weight-ultra-bold : 900;
+
+// Descriptive Base Colors
+
+$white			 	: #FFFFFF;
+$light-grey		 	: #FEFEFE;
+$ice				: #EDF6FF;   
+$hawkes-blue		: #CCE4FB;
+$alabaster			: rgba(255,255,255,0.9);
+$red				: rgba(234,46,73,0.8);
+$dark-blue			: #3A4453;
+$grey				: #DDDDDD;
+$black				: #232824;
+$blue				: #2BABE1;
+$transparent		: transparent;
+
+// Project Colour Scheme
+$magenta			: #C879B2;
+$stoned				: #0D2C40;
+$scooter			: #3AC2D8;
+$merino				: #F6EFE5;
+$flamingo			: #dd3b2a;
+
+// Color Usage
+$background			: $ice;
+$foreground			: $alabaster;
+$color-one   		: $hawkes-blue;
+$color-two 			: $blue;
+$color-three		: $black;
+$color-four			: $flamingo;
+$color-five			: $white;
+$color-six			: $red;
+$text-color			: $black;
+$color-shadow    	: rgba($black, .2);
+
+
+// Text
+
+$base-font-size 	: 16px;
+$base-line      	: 24px;
+$letter-space    	: 1px;
+
+// Border radius
+
+$b-radius    		: .4em;
+$br-round      		: 50%;
+
+// Transitions
+
+$trns-duration  	: .3s;
+
+// Path to Assets
+
+$path--rel      	: "../img";
